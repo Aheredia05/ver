@@ -1,6 +1,12 @@
-Grupo 2
-PE�AHERRERA SALTOS OSCAR MATEO
-PEREZ QUISHPE ELVIS MARTIN
-SANMARTIN CARRILLO LUIS FERNANDO
-TACURI LUNA ANTHONY BRYAN
-HEREDIA IZA ALBERTO ALFONSO
+…or create a new repository on the command line
+echo "# vercodigo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Aheredia05/vercodigo.git
+git push -u origin master
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Aheredia05/vercodigo.git
+git push -u origin master
